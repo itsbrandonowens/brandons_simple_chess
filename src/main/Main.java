@@ -2,8 +2,12 @@ package main;
 
 import javax.swing.JFrame;
 
+/*
+ * Brandon's Simple Chess
+ * This is a fully working game of chess including all features such as promotion, en passant and castling.
+ * This was created during my re-upskilling in Java to ensure that I increase my level of understanding 
+*/
 public class Main {
-//https://www.youtube.com/watch?v=jzCxywhTAUI
     public static void main(String[] args) {
         
         JFrame window = new JFrame("Brandon Atkinson's Simple Chess");
